@@ -14,7 +14,7 @@ on each parking slot, its data is managed on the cloud.
 1. IDE                      : Microchip studio, Digi XCTU
 2. Communication protocols  : MQTT, Zigbee 
 3. IOT                      : AWS, Node-Red
-4. Programming language     : Embedded-C, Micro-python
+4. Programming language     : Embedded-C
 
 ## Folder details:
 1. LCD_DISPLAY : This folder contains lcd driver code and lcd application code for display. It also have .hex file which you can directly dump into microcontroller and
