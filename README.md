@@ -1,16 +1,16 @@
-# Smart_car_parking-Project
+#Smart_car_parking-Project
 
-##Description:
+##Description :
 Smart car parking is a project where real-time information regarding parking space is updated immediately on entrance of parking lot. LCD display before car enters to 
 parking space. The available or unavailable parking spaces are displayed simply using LCD display and LED's.These processes together with sensor and update the status 
 on each parking slot, its data is managed on the cloud.
 
-##Hardware:
+##Hardware :
 1. Sensors              : Ultrasonic sensors
 2. Controller/Modules   : ATmega16A, Xbee s2c wireless module with Antenna, XBee USB Adapter based on CP2102 IC
 3. Display              : LCD display, LED's
 
-##Software: 
+##Software :
 1. IDE                      : Microchip studio, Digi XCTU
 2. Communication protocols  : MQTT, Zigbee 
 3. IOT                      : AWS, Node-Red
